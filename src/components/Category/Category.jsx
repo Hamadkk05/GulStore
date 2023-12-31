@@ -6,7 +6,7 @@ const Category = () => {
             <div className="category-title">
                 Category Title
             </div>
-            <Products/>
+            <Products innerPage={true} />
         </div>
     </div>;
 };
