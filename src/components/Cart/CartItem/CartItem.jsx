@@ -1,12 +1,12 @@
 import { MdClose } from "react-icons/md";
-import pord from "../../../assets/products/earbuds-prod-1.webp";
+import prod from "../../../assets/products/earbuds-prod-1.webp";
 
 import "./CartItem.scss";
 const CartItem = () => {
     return <div className="cart-products">
         <div className="cart-product">
             <div className="img-container">
-                <img src={pord} />
+                <img src={prod} />
             </div>
             <div className="prod-details">
                 <span className="name">Product Name</span>
