@@ -18,6 +18,7 @@
         .prod-details {
             overflow: hidden;
             position: relative;
+           
             .name {
                 text-overflow: ellipsis;
                 white-space: nowrap;
@@ -27,6 +28,7 @@
                 font-weight: 600;
                 display: block;
                 padding-right: 25px;
+               
                
             }
             .text {
