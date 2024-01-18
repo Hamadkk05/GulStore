@@ -9,7 +9,6 @@ import {
   FaCartPlus,
 } from "react-icons/fa";
 import "./SingleProduct.scss";
-import prod from "../../assets/products/headphone-prod-2.webp";
 import useFetch from "../../hooks/useFetch";
 import { useParams } from "react-router-dom";
 import { Context } from "../../utils/context";
